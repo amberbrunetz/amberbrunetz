@@ -1,16 +1,27 @@
-## Hi there 👋
+### Greetings!
 
-<!--
-**amberbrunetz/amberbrunetz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Amber Brunetz
 
-Here are some ideas to get you started:
+> Computer Science Student | Web Developer | Juinor Software Engineer 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Technologies
+
+Web Development:
+HTML, CSS, Javascript, Backbone JS, React JS
+
+Languages:
+Ruby, Python, Java, C, C++, C#
+
+# Directory
+
+Email: [amber.brunetz72@gmail.com](mailto:amber.brunetz72@gmail.com)
+Linkedin: [Amber Brunetz](https://www.linkedin.com/in/amber-brunetz-7b0304280/)
+
+# Introduction
+
+Hello! My name is Amber Brunetz, and I am a budding software developer who is attending Kettering University for a BA in Computer Science.
+My pronouns are she/her. I am very passionate about all things game development. I am currently working on a website to showcase my portfolio!
+If you would like to reach me, please send me an email.
+
+I hope you have a wonderful day :D
+
